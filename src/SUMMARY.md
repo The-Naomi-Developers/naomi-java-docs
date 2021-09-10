@@ -11,6 +11,6 @@
 - [English Documentation](en_us/index.md)
   - [Miscellaneous commands](en_us/miscellaneous.md)
   - [Fun commands](en_us/fun.md)
-  - [Music commands](eus/music.md)
+  - [Music commands](en_us/music.md)
   - [Settings commands](en_us/settings.md)
   - [Moderation commands](en_us/moderation.md)
