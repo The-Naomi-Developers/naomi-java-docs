@@ -7,8 +7,8 @@
 > However, if an argument is specified `<that way>`, it is **required**.
 
 ### Command categories
-- [Miscellaneous](miscellaneous.md)
-- [Fun](fun.md)
-- [Music](music.md)
-- [Settings](settings.md)
-- [Moderation](moderation.md)
+- [Miscellaneous commands](miscellaneous.md)
+- [Fun commands](fun.md)
+- [Music commands](music.md)
+- [Settings commands](settings.md)
+- [Moderation commands](moderation.md)

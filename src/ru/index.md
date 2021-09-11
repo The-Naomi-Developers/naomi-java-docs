@@ -6,8 +6,8 @@
 > Однако, если аргумент указан `<таким образом>`, то он является **обязательным**.
 
 ### Категории команд
-- [Miscellaneous (Разное)](miscellaneous.md)
-- [Fun (Веселье, радость, капец)](fun.md)
-- [Music (Музыка)](music.md)
-- [Settings (Настройки)](settings.md)
-- [Moderation (Модерация)](moderation.md)
+- [Разное](miscellaneous.md)
+- [Команды веселья](fun.md)
+- [Команды музыки](music.md)
+- [Команды настроек](settings.md)
+- [Команды модерации](moderation.md)
