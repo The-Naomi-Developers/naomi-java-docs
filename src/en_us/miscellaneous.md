@@ -1,4 +1,15 @@
 # Category: **Miscellaneous**
+
+- [`/help`](/en_us/miscellaneous.md#help)
+- [`/hi`](/en_us/miscellaneous.md#hi)
+- [`/emoji [emoji]`](/en_us/miscellaneous.md#emoji-emoji)
+- [`/avatar [user]`](/en_us/miscellaneous.md#avatar-user)
+- [`/server`](/en_us/miscellaneous.md#server)
+- [`/user [user]`](/en_us/miscellaneous.md#user-user)
+- [`/stats`](/en_us/miscellaneous.md#stats)
+- [`/weather <city>`](/en_us/miscellaneous.md#weather-city)
+- [`/say <content> [textchannel]`](/en_us/miscellaneous.md#say-content-textchannel)
+
 ### `/help`
 This command displays a list of bot commands. Nothing complicated.
 

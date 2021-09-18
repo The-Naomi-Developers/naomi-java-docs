@@ -1,4 +1,16 @@
 # Category: **Music**
+
+- [`/play <query>`](/en_us/music.html#play-query)
+- [`/repeat <choice>`](/en_us/music.html#repeat-choice)
+- [`/stop`](/en_us/music.html#stop)
+- [`/stop`](/en_us/music.html#stop)
+- [`/pause`](/en_us/music.html#pause)
+- [`/skip`](/en_us/music.html#skip)
+- [`/rewind <time>`](/en_us/music.html#rewind-time)
+- [`/rewind <time>`](/en_us/music.html#rewind-time)
+- [`/volume <new_volume>`](/en_us/music.html#volume-new_volume)
+- [`/nowplaying`](/en_us/music.html#nowplaying)
+
 ### `/play <query>`
 Start playing a track or add it to the queue. You must be in the voice channel to use this command.
 

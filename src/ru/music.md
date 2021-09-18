@@ -1,4 +1,16 @@
 # Категория: **Music**
+
+- [`/play <query>`](/ru/music.html#play-query)
+- [`/repeat <choice>`](/ru/music.html#repeat-choice)
+- [`/stop`](/ru/music.html#stop)
+- [`/stop`](/ru/music.html#stop)
+- [`/pause`](/ru/music.html#pause)
+- [`/skip`](/ru/music.html#skip)
+- [`/rewind <time>`](/ru/music.html#rewind-time)
+- [`/rewind <time>`](/ru/music.html#rewind-time)
+- [`/volume <new_volume>`](/ru/music.html#volume-new_volume)
+- [`/nowplaying`](/ru/music.html#nowplaying)
+
 ### `/play <query>`
 Начать воспроизведение трека или же добавить его в очередь.
 Вы должны находиться в голосовом канале, чтобы использовать эту команду.

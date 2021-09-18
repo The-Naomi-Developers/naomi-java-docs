@@ -1,4 +1,10 @@
 # Категория: **Fun**
+
+- [`/urban <phrase>`](/ru/fun.md#urban-phrase)
+- [`/nationalize <name>`](/ru/fun.md#nationalize-name)
+- [`/wtftext <text>`](/ru/fun.md#wtftext-text)
+- [`/wtfsay <text>`](/ru/fun.md#wtfsay-text)
+
 ### `/urban <phrase>`
 Поиск слова или фразы в Urban-словаре.
 

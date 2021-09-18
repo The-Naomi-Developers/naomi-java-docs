@@ -1,4 +1,15 @@
 # Категория: **Miscellaneous**
+
+- [`/help`](/ru/miscellaneous.md#help)
+- [`/hi`](/ru/miscellaneous.md#hi)
+- [`/emoji [emoji]`](/ru/miscellaneous.md#emoji-emoji)
+- [`/avatar [user]`](/ru/miscellaneous.md#avatar-user)
+- [`/server`](/ru/miscellaneous.md#server)
+- [`/user [user]`](/ru/miscellaneous.md#user-user)
+- [`/stats`](/ru/miscellaneous.md#stats)
+- [`/weather <city>`](/ru/miscellaneous.md#weather-city)
+- [`/say <content> [textchannel]`](/ru/miscellaneous.md#say-content-textchannel)
+
 ### `/help`
 Эта команда отображает список команд бота. Ничего сложного.
 

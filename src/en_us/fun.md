@@ -1,4 +1,10 @@
 # Category: **Fun**
+
+- [`/urban <phrase>`](/en_us/fun.md#urban-phrase)
+- [`/nationalize <name>`](/en_us/fun.md#nationalize-name)
+- [`/wtftext <text>`](/en_us/fun.md#wtftext-text)
+- [`/wtfsay <text>`](/en_us/fun.md#wtfsay-text)
+
 ### `/urban <phrase>`
 Search for a word or phrase in the Urban dictionary.
 
@@ -12,7 +18,7 @@ Find out the nationality of a name. The `name` argument accepts names written
 > **Cooldown**: 5 seconds  
 > **Required permissions**: No
 
-### `/wtftext <text>1
+### `/wtftext <text>`
 Try out the auto-addition of your phrases from the AI "Porfiryevich" and have
 fun time.
 > ⚠️ **WARNING:** text is not filtered in any way, so we are not
