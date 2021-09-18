@@ -53,3 +53,17 @@ Information about the bot's host, its characteristics, as well as the bot's stat
 
 > **Cooldown**: 5 seconds  
 > **Required permissions**: No
+
+### `/weather <city>`
+Use this command to find out the weather in any city of the world. The `city` argument specifies the name of the city. It can be in Latin or Cyrillic.
+
+> **Cooldown**: 5 seconds  
+> **Required permissions**: No
+
+### `/say <content> [textchannel]`
+Send message on behalf of the bot. If any **text channel** is specified
+as the `textchannel` argument, the message will be sent there.
+
+> **Cooldown**: 5 seconds  
+> **Required permissions**: `Manage channels`   
+> **Required conditions**: *if you specify the `textchannel` argument, be kind enough to specify a **text** channel.*
